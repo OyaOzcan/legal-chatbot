@@ -1,5 +1,9 @@
 
 # **LexMind - Legal Chatbot**
+
+---
+
+
 ## New Mind AI Bootcamp Bitirme Projesi
 
 LLM destekli, Neo4j tabanlı, sözleşme analiz, taslak oluşturma ve eksik madde kontrolü yapan legal chatbot projesi.
