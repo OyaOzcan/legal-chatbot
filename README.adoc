@@ -113,5 +113,5 @@ streamlit run bot.py
 
 ## **Ekran Görüntüleri**
 
-(Ekran görüntüleri burada eklenebilir)
+
 
