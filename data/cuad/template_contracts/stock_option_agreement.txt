@@ -1,0 +1,40 @@
+STOCK OPTION AGREEMENT
+
+This Stock Option Agreement (this "Agreement") is made as of {{agreement_date}} between {{company_name}}, a {{company_state}} corporation (the "Company"), and {{recipient_name}}, an individual residing at {{recipient_address}} ("Optionee").
+
+1. Grant of Option  
+The Company hereby grants to Optionee the option to purchase {{number_of_shares}} shares of the Company’s common stock at an exercise price of ${{exercise_price}} per share (the "Option").
+
+2. Exercise of Option  
+The Option shall be exercisable in accordance with the following schedule:  
+{{vesting_schedule}}.
+
+3. Non-Transferability  
+The Option is not transferable by the Optionee other than by will or the laws of descent and distribution.
+
+4. Termination of Employment  
+If the Optionee ceases to be employed by the Company for any reason, then the right to exercise the Option shall be as follows:  
+- Resignation: {{resignation_exercise_period}}  
+- Termination for cause: Immediate cancellation  
+- Death or Disability: {{death_disability_exercise_period}}
+
+5. Adjustments for Changes in Capital Structure  
+In the event of stock splits, combinations, or similar events, the number and kind of shares subject to this Option and the exercise price shall be adjusted accordingly.
+
+6. Tax Consequences  
+The Optionee is responsible for any tax liabilities resulting from the exercise or disposition of this Option.
+
+7. Miscellaneous  
+- Governing Law: This Agreement shall be governed by the laws of {{governing_law_state}}.  
+- Entire Agreement: This document contains the entire agreement between the parties.  
+- Amendment: Any changes must be in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+_________________________  
+{{company_representative_name}}  
+For {{company_name}}
+
+_________________________  
+{{recipient_name}}  
+

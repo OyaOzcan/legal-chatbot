@@ -1,0 +1,65 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement (“Agreement”) is entered into as of {{agreement_date}} by and between:
+
+**Client:**  
+{{client_name}}, located at {{client_address}}  
+
+**Contractor:**  
+{{contractor_name}}, located at {{contractor_address}}
+
+Collectively referred to as the “Parties.”
+
+---
+
+**1. SERVICES PROVIDED**  
+Contractor agrees to perform the following services:  
+{{service_description}}  
+All services shall be performed according to the specifications and timelines agreed upon by the Parties.
+
+**2. TERM OF AGREEMENT**  
+This Agreement shall commence on {{start_date}} and shall remain in effect until {{end_date}} or until terminated according to the provisions of this Agreement.
+
+**3. PAYMENT TERMS**  
+Client agrees to pay Contractor:  
+- Rate: {{payment_rate}}  
+- Payment frequency: {{payment_schedule}}  
+- Maximum total payment: {{maximum_payment}}, if applicable  
+All payments will be made via {{payment_method}}.
+
+**4. INDEPENDENT CONTRACTOR STATUS**  
+Contractor is an independent contractor, not an employee. Nothing in this Agreement shall be construed to create a partnership, joint venture, or employer-employee relationship.
+
+**5. EXPENSES**  
+{{expense_clause}}  
+(e.g., "Contractor shall bear all costs and expenses related to performing the services under this Agreement.")
+
+**6. CONFIDENTIALITY**  
+Contractor agrees to keep all confidential information obtained from the Client private and not to disclose or use such information for any purpose other than that set forth in this Agreement.
+
+**7. INTELLECTUAL PROPERTY**  
+All work products, inventions, and intellectual property developed during the course of this Agreement shall be the sole property of {{ownership_entity}}, unless otherwise agreed.
+
+**8. TERMINATION**  
+This Agreement may be terminated by either party with {{termination_notice}} written notice. Upon termination, all pending payments for services rendered shall become due.
+
+**9. GOVERNING LAW**  
+This Agreement shall be governed by the laws of {{governing_state_or_country}}.
+
+**10. ENTIRE AGREEMENT**  
+This document contains the entire agreement between the Parties and supersedes all prior understandings.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+_______________________________  
+{{client_name}}  
+By: {{client_representative}}  
+Title: {{client_title}}  
+Date: {{client_sign_date}}
+
+_______________________________  
+{{contractor_name}}  
+By: {{contractor_representative}}  
+Title: {{contractor_title}}  
+Date: {{contractor_sign_date}}
+

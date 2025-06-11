@@ -1,0 +1,66 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made and entered into on {{agreement_date}} by and between:
+
+Employer: {{employer_name}}, located at {{employer_address}}, hereinafter referred to as the "Employer"
+
+AND
+
+Employee: {{employee_name}}, residing at {{employee_address}}, hereinafter referred to as the "Employee".
+
+1. POSITION
+The Employee shall be employed in the position of {{position_title}}. The duties and responsibilities shall include:
+{{job_responsibilities}}
+
+2. COMMENCEMENT DATE
+The Employee’s employment will commence on {{start_date}}.
+
+3. SALARY
+The Employee shall receive a salary of {{salary}} per {{salary_period}}, payable in accordance with the Employer’s standard payroll practices.
+
+4. WORKING HOURS
+The Employee agrees to work {{working_hours}} per day. Rest periods shall include {{rest_periods}}.
+
+5. LEAVE
+- Annual Leave: {{leave_annual}} days
+- Casual Leave: {{leave_casual}} days
+- Sick Leave: {{leave_sick}} days
+- Maternity Leave: {{leave_maternity}} days
+- Paternity Leave: {{leave_paternity}} days
+- Public Holidays: {{public_holidays}} days
+
+6. BENEFITS
+The Employee shall be entitled to the following additional benefits:
+{{benefits}}
+
+7. PROVIDENT FUND & GRATUITY
+- Provident Fund Contribution: {{provident_fund_percent}}%
+- Minimum years for gratuity eligibility: {{gratuity_years}} years
+
+8. TERMINATION
+- Probation Period: {{probation_period}} months
+- Notice during probation: {{termination_notice_probation}} days
+- Notice after confirmation: {{termination_notice_after}} days
+
+9. SAFETY EQUIPMENT
+Personal protective equipment to be provided: {{ppe_provided}}
+
+10. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of {{governing_law}}.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first written above.
+
+__________________________              __________________________
+{{employer_name}}                       {{employee_name}}
+(Employer)                              (Employee)
+
+WITNESSES:
+
+1. Name: {{witness1_name}}  
+   ID: {{witness1_id}}  
+   Contact: {{witness1_contact}}  
+
+2. Name: {{witness2_name}}  
+   ID: {{witness2_id}}  
+   Contact: {{witness2_contact}}  
+

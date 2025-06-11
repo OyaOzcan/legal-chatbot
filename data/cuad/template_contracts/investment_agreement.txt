@@ -1,0 +1,94 @@
+SIMPLE EQUITY INVESTMENT CONTRACT (SEIC)
+-----------------------------------------
+
+Date of Agreement: {{agreement_date}}
+
+Between:
+
+Company: {{company_name}} GmbH  
+Address: {{company_address}}  
+Represented by: {{company_representative}} ({{company_representative_title}})  
+Email: {{company_email}}
+
+and
+
+Investor: {{investor_name}}  
+Address: {{investor_address}}  
+Represented by: {{investor_representative}} ({{investor_representative_title}})  
+Email: {{investor_email}}
+
+-----------------------------------------
+Key Terms of the Investment
+-----------------------------------------
+
+Cap Amount: EUR {{cap_amount}}  
+Investment Amount: EUR {{investment_amount}}  
+Fallback Valuation Amount: EUR {{fallback_valuation}} OR N/A  
+Long Stop Date: {{long_stop_date}} (number of months or specific date)
+
+-----------------------------------------
+Investment Clause
+
+The Investor agrees to pay the Investment Amount of EUR {{investment_amount}} to the Company within 3 business days. This amount is non-refundable.
+
+-----------------------------------------
+Delivery Clause
+
+The Company and its Shareholders shall notify the Investor of any:
+- "Subsequent Investment" (future funding round), or
+- "Change of Control" (merger, acquisition, or asset sale)
+
+Upon such event, a new share ("New Share") shall be issued to the Investor as described.
+
+If no such event occurs before the Long Stop Date, a fallback share issuance shall take place based on the Fallback Valuation.
+
+-----------------------------------------
+Company Warranties
+
+1. The Company is validly incorporated in Austria.
+2. The Company has authority to enter this Agreement.
+3. The Company owns/controls all necessary intellectual property.
+4. The Investor confirms full understanding of risk and has conducted due diligence.
+
+-----------------------------------------
+Interest & Subordination
+
+- No interest shall accrue on the investment.
+- All investor claims are subordinated under Austrian insolvency law.
+
+-----------------------------------------
+Confidentiality
+
+Both parties agree to maintain confidentiality of all related information.
+
+-----------------------------------------
+Governing Law & Jurisdiction
+
+- Governing Law: Republic of Austria
+- Jurisdiction: Courts at the seat of the Company
+
+-----------------------------------------
+Miscellaneous
+
+- Notices must be sent via email, personal delivery, or certified mail.
+- Any taxes/fees related to execution shall be paid by the Company.
+- Parties agree to sign additional documents if needed to implement the Agreement.
+- Amendments must be made in writing.
+- If a clause is invalid, the remainder remains effective.
+
+-----------------------------------------
+
+Signed on: {{sign_date}} at {{sign_place}}
+
+For the Company:  
+Name: {{company_signatory_name}}  
+Title: {{company_signatory_title}}  
+Signature: ____________________
+
+For the Investor:  
+Name: {{investor_signatory_name}}  
+Title: {{investor_signatory_title}}  
+Signature: ____________________
+
+(Additional Shareholder fields if needed...)
+

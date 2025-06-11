@@ -1,0 +1,65 @@
+FOUNDER AGREEMENT TEMPLATE
+
+This Founder Agreement ("Agreement") is made and entered into on [Enter Date] by and between the following parties:
+
+1. [Enter Founder 1 Name], residing at [Enter Founder 1 Address], and  
+2. [Enter Founder 2 Name], residing at [Enter Founder 2 Address],  
+(collectively referred to as the "Founders")
+
+WHEREAS, the Founders desire to work together to develop, operate, and manage a new business venture (the “Company”), to be known as:
+
+Company Name: [Enter Company Name]  
+Incorporated in: [Enter State/Country of Incorporation]
+
+1. PURPOSE  
+The purpose of this Agreement is to set forth the terms and conditions of the relationship between the Founders, including ownership, responsibilities, and dispute resolution.
+
+2. OWNERSHIP INTEREST  
+The Founders agree to the following ownership percentages:  
+- [Enter Founder 1 Name]: [Enter %]  
+- [Enter Founder 2 Name]: [Enter %]
+
+3. ROLES AND RESPONSIBILITIES  
+The Founders agree to the following roles:  
+- [Enter Founder 1 Name]: [Enter Role / Responsibilities]  
+- [Enter Founder 2 Name]: [Enter Role / Responsibilities]
+
+4. CAPITAL CONTRIBUTIONS  
+Each Founder shall contribute the following initial capital:  
+- [Enter Founder 1 Name]: [Enter Amount and Description]  
+- [Enter Founder 2 Name]: [Enter Amount and Description]
+
+5. VESTING SCHEDULE  
+Equity will vest according to the following schedule:  
+[Enter Vesting Schedule Terms, e.g., 4 years with a 1-year cliff]
+
+6. INTELLECTUAL PROPERTY  
+All IP created during the term of this Agreement shall be owned by the Company. Each Founder hereby assigns any such IP rights to the Company.
+
+7. CONFIDENTIALITY  
+The Founders agree to maintain the confidentiality of any proprietary information of the Company or each other.
+
+8. DISPUTE RESOLUTION  
+In the event of a dispute, the Founders agree to first attempt resolution through mediation by: [Enter Mediator Name / Method]  
+If mediation fails, disputes shall be settled by arbitration in [Enter Jurisdiction].
+
+9. TERMINATION  
+This Agreement may be terminated upon:  
+- Written agreement of all Founders,  
+- Withdrawal of a Founder (with [Enter Number] days' written notice), or  
+- Breach of this Agreement.
+
+10. MISCELLANEOUS  
+- This Agreement shall be governed by the laws of [Enter State/Country].  
+- This Agreement constitutes the full agreement between the Founders.
+
+IN WITNESS WHEREOF, the parties have executed this Founder Agreement as of the date first written above.
+
+_________________________  
+[Enter Founder 1 Name] – Signature  
+Date: [Enter Date]
+
+_________________________  
+[Enter Founder 2 Name] – Signature  
+Date: [Enter Date]
+

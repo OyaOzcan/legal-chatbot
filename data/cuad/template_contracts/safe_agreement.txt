@@ -1,0 +1,46 @@
+SAFE (Simple Agreement for Future Equity)
+
+THIS CERTIFIES THAT in exchange for the payment by {{investor_name}} of {{investment_amount}} (the “Purchase Amount”) on {{agreement_date}}, {{company_name}}, a {{company_type}} organized under the laws of {{jurisdiction}}, with a principal place of business at {{company_address}} (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock, subject to the terms set forth below.
+
+---
+
+1. **Events**
+
+1.1 **Equity Financing**  
+If the Company raises capital through an equity financing before the termination of this SAFE, the Investor’s SAFE shall convert into shares of the capital stock offered, based on a valuation cap of {{valuation_cap}} or a discount of {{discount_rate}}, whichever results in more shares.
+
+1.2 **Liquidity Event**  
+If a Liquidity Event (e.g., acquisition, IPO) occurs before conversion or termination, the Investor may elect to (a) receive their Purchase Amount back or (b) convert the SAFE into common stock at the most recent valuation.
+
+1.3 **Dissolution Event**  
+If the Company dissolves before conversion, the Investor will receive back their Purchase Amount, subordinated to debts and senior securities.
+
+---
+
+2. **Termination**  
+This SAFE will terminate (i) upon issuance of shares per Section 1, or (ii) upon repayment of the Purchase Amount due to a Dissolution Event.
+
+3. **Investor Representations**  
+Investor represents that:
+- They understand the nature of this SAFE;
+- They are an accredited investor (if applicable);
+- They are investing for their own account.
+
+4. **Miscellaneous**  
+4.1 **Governing Law**: This SAFE is governed by the laws of {{governing_law}}.  
+4.2 **No Transfer**: This SAFE is non-transferable without the Company’s consent.  
+4.3 **Entire Agreement**: This document represents the full agreement between the parties.
+
+IN WITNESS WHEREOF, the parties have executed this SAFE Agreement as of the date written above.
+
+_______________________________  
+{{company_representative}}  
+Title: {{company_title}}  
+{{company_name}}  
+Date: {{company_sign_date}}
+
+_______________________________  
+{{investor_name}}  
+By: {{investor_representative}}  
+Title: {{investor_title}}  
+Date: {{investor_sign_date}}

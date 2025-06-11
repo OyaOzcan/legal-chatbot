@@ -1,0 +1,51 @@
+CONVERTIBLE NOTE AGREEMENT
+
+THIS CONVERTIBLE PROMISSORY NOTE is made and entered into on {{agreement_date}} by and between:
+
+**Company Name**: {{company_name}}, a {{company_type}} organized under the laws of {{jurisdiction}}, having its principal office at {{company_address}},  
+and  
+**Investor Name**: {{investor_name}}, residing at {{investor_address}}.
+
+---
+
+1. **Principal and Interest**
+
+The Company hereby promises to pay to the order of the Investor the principal sum of {{loan_amount}}, together with interest accrued thereon at the rate of {{interest_rate}}% per annum, starting from the date above.
+
+2. **Maturity Date**
+
+Unless earlier converted, the outstanding principal and unpaid accrued interest shall be due and payable on {{maturity_date}} (the “Maturity Date”).
+
+3. **Conversion**
+
+3.1 **Equity Financing**  
+Upon a Qualified Financing prior to the Maturity Date, this Note shall automatically convert into preferred shares at a conversion price equal to the lesser of:  
+- {{discount_rate}}% discount to the price per share paid by the investors, or  
+- a valuation cap of {{valuation_cap}}.
+
+3.2 **Optional Conversion on Non-Qualified Financing**  
+In the event of a Non-Qualified Financing, the Investor may elect to convert the outstanding amount into equity at the same terms as the financing.
+
+3.3 **Liquidity Event**  
+In the event of a Liquidity Event prior to conversion, the Investor shall receive either:
+- the repayment of the Note, or  
+- conversion to common shares at the most recent valuation, whichever is higher.
+
+4. **Events of Default**
+
+If the Company defaults in the payment of any amount due under this Note, the Investor may declare the entire unpaid principal and accrued interest immediately due and payable.
+
+---
+
+IN WITNESS WHEREOF, the Company has executed this Convertible Note Agreement as of the date first written above.
+
+**Company Representative**:  
+Name: {{company_representative_name}}  
+Title: {{company_representative_title}}  
+Signature: ___________________________
+
+**Investor**:  
+Name: {{investor_name}}  
+Signature: ___________________________
+
+

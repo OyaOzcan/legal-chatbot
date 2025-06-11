@@ -1,0 +1,62 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement (“Agreement”) is entered into on {{agreement_date}} between:
+
+**Disclosing Party:**  
+{{disclosing_party_name}}, having its principal place of business at {{disclosing_party_address}}  
+
+**Receiving Party:**  
+{{receiving_party_name}}, having its principal place of business at {{receiving_party_address}}  
+
+Collectively referred to as the “Parties.”
+
+---
+
+**1. DEFINITION OF CONFIDENTIAL INFORMATION**  
+"Confidential Information" refers to all non-public, proprietary, or sensitive information disclosed by the Disclosing Party to the Receiving Party, including but not limited to business plans, technical data, product ideas, trade secrets, software, and marketing strategies.
+
+**2. OBLIGATIONS OF RECEIVING PARTY**  
+The Receiving Party agrees to:
+- Maintain the confidentiality of the information,
+- Not disclose it to any third party without prior written consent,
+- Use it only for the purpose of {{purpose_of_disclosure}}.
+
+**3. EXCLUSIONS FROM CONFIDENTIAL INFORMATION**  
+Information is not considered confidential if it:
+- Is or becomes public knowledge not through fault of the Receiving Party,
+- Was known to the Receiving Party before disclosure,
+- Was independently developed,
+- Is disclosed under legal obligation (with prompt notice to the Disclosing Party).
+
+**4. TERM**  
+This Agreement shall commence on the date first written above and continue for a period of {{term_in_years}} years or until terminated in writing by either party. The confidentiality obligations shall survive for {{survival_period}} years after termination.
+
+**5. RETURN OF MATERIALS**  
+Upon request, the Receiving Party will return or destroy all documents or materials containing Confidential Information.
+
+**6. NO LICENSE**  
+Nothing in this Agreement grants the Receiving Party any rights in or to the Confidential Information except as expressly set forth herein.
+
+**7. NO WARRANTY**  
+Confidential Information is provided “as is,” and the Disclosing Party makes no warranties, express or implied.
+
+**8. GOVERNING LAW**  
+This Agreement shall be governed by and construed in accordance with the laws of {{governing_law_state}}.
+
+**9. ENTIRE AGREEMENT**  
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior discussions.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+______________________________  
+{{disclosing_party_name}}  
+By: {{disclosing_party_representative}}  
+Title: {{disclosing_party_title}}  
+Date: {{disclosing_party_sign_date}}
+
+______________________________  
+{{receiving_party_name}}  
+By: {{receiving_party_representative}}  
+Title: {{receiving_party_title}}  
+Date: {{receiving_party_sign_date}}
+
