@@ -1,24 +1,25 @@
 
-LexMind - Legal Chatbot 
+# **LexMind - Legal Chatbot**
 
 LLM destekli, Neo4j tabanlı, sözleşme analiz, taslak oluşturma ve eksik madde kontrolü yapan legal chatbot projesi.
 
 ---
 
-Proje Özellikleri
+## **Proje Özellikleri**
 
--  Sözleşme maddelerini doğal dilde açıklama
--  Eksik ya da zorunlu madde kontrolü
--  Benzer maddelerle karşılaştırma ve alternatif öneriler
--  Yeni madde önerisi ve tam sözleşme taslağı oluşturma
--  LLM destekli akıllı soru-cevap chatbotu
--  Neo4j tabanlı Knowledge Graph yapısı
--  Embedding tabanlı Semantic Search (OpenAI)
--  LangChain agent tabanlı çoklu araç sistemi
--  Streamlit ile interaktif kullanıcı arayüzü
+- Sözleşme maddelerini doğal dilde açıklama
+- Eksik ya da zorunlu madde kontrolü
+- Benzer maddelerle karşılaştırma ve alternatif öneriler
+- Yeni madde önerisi ve tam sözleşme taslağı oluşturma
+- LLM destekli akıllı soru-cevap chatbotu
+- Neo4j tabanlı Knowledge Graph yapısı
+- Embedding tabanlı Semantic Search (OpenAI)
+- LangChain agent tabanlı çoklu araç sistemi
+- Streamlit ile interaktif kullanıcı arayüzü
 
 ---
-Proje Motivasyonu
+
+## **Proje Motivasyonu**
 
 Startup ekosisteminde sıkça kullanılan sözleşmelerin (gizlilik sözleşmeleri, hisse planları, yatırımcı sözleşmeleri, danışmanlık anlaşmaları vb.) hızlı, anlaşılır ve güvenilir bir şekilde analiz edilmesi için tasarlandı.
 
@@ -29,7 +30,7 @@ Startup ekosisteminde sıkça kullanılan sözleşmelerin (gizlilik sözleşmele
 
 ---
 
- Kullanılan Teknolojiler
+## **Kullanılan Teknolojiler**
 
 - Neo4j: Knowledge Graph tabanlı sözleşme veritabanı
 - LangChain: LLM agent yönetimi, Cypher sorgusu üretimi
@@ -40,62 +41,72 @@ Startup ekosisteminde sıkça kullanılan sözleşmelerin (gizlilik sözleşmele
 
 ---
 
- Veri Modeli
+## **Veri Modeli**
 
-- Agreement: Sözleşme temel bilgileri
-- Clause: Sözleşmedeki her bir madde
-- ClauseType: Madde kategorileri
-- Party: Taraf bilgileri
-- GoverningLaw: Uygulanan hukuk sistemleri
+- **Agreement**: Sözleşme temel bilgileri
+- **Clause**: Sözleşmedeki her bir madde
+- **ClauseType**: Madde kategorileri
+- **Party**: Taraf bilgileri
+- **GoverningLaw**: Uygulanan hukuk sistemleri
 
-İlişkiler:
+**İlişkiler:**
 
+```cypher
 (:Agreement)-[:HAS_CLAUSE]->(:Clause)
 (:Clause)-[:OF_TYPE]->(:ClauseType)
 (:Clause)-[:MENTIONS]->(:Party)
 (:Clause)-[:UNDER_LAW]->(:GoverningLaw)
+```
 
 ---
 
-Kurulum Adımları
+## **Kurulum Adımları**
 
- Repository'yi klonlayın
+### **Repository'yi klonlayın**
 
+```bash
 git clone <proje-url>
 cd legal-chatbot
+```
 
- Sanal ortam oluşturun
+### **Sanal ortam oluşturun**
 
+```bash
 python -m venv venv
-source venv/bin/activate  
+source venv/bin/activate
+```
 
+### **Bağımlılıkları yükleyin**
 
-Bağımlılıkları yükleyin
-
+```bash
 pip install -r requirements.txt
+```
 
-.env dosyasını oluşturun
+### **.env dosyasını oluşturun**
 
+```env
 OPENAI_API_KEY=sk-xxxxxx
 NEO4J_URI=bolt://<NEO4J_IP>:7687
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=xxxxxx
+```
 
-Veri yükleme ve graph oluşturma
+### **Veri yükleme ve graph oluşturma**
 
+```bash
 python scripts/create_node.py
 python scripts/create_vector.py
+```
 
-Uygulamayı başlatın
+### **Uygulamayı başlatın**
 
+```bash
 streamlit run bot.py
+```
 
 ---
-Ekran Görüntüleri
 
+## **Ekran Görüntüleri**
 
-
-
-
-
+(Ekran görüntüleri burada eklenebilir)
 
