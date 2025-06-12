@@ -3,7 +3,8 @@ from datetime import date
 import os
 import re
 
-TEMPLATE_DIR = "../../data/cuad/template_contracts"
+TEMPLATE_DIR = "data/cuad/template_contracts"
+
 
 def extract_placeholders(template_text):
     """{{...}} içindeki tüm değişken adlarını döndürür"""

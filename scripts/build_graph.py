@@ -49,7 +49,7 @@ def extract_agreement_type(filename):
     return match.group(1).title() if match else "Unknown"
 
 
-df = pd.read_csv("../data/cuad/master_clauses.csv")
+df = pd.read_csv("data/cuad/master_clauses.csv")
 
 clause_columns = [col.replace("-Answer", "") for col in df.columns if col.endswith("-Answer")]
 

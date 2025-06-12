@@ -1,8 +1,8 @@
 from langchain_neo4j import GraphCypherQAChain
 from langchain.prompts.prompt import PromptTemplate
 
-from llm import llm
-from graph import graph
+from tools.llm import llm
+from app.infrastructure.graph import graph
 
 
 schema_str = """

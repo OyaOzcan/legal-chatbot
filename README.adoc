@@ -99,7 +99,7 @@ NEO4J_PASSWORD=xxxxxx
 ### **Veri yükleme ve graph oluşturma**
 
 ```bash
-python scripts/create_node.py
+python scripts/build_graph.py
 python scripts/create_vector.py
 ```
 

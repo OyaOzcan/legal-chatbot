@@ -8,7 +8,7 @@ from langchain_neo4j import Neo4jVector
 from langchain_openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-CUAD_PATH = "../data/cuad/full_contract_txt"
+CUAD_PATH = "data/cuad/full_contract_txt"
 
 print("1 - .env dosyasından ayarlar yüklendi.")
 
