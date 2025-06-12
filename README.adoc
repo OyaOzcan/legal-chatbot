@@ -115,8 +115,6 @@ streamlit run bot.py
 ## 📸 Ekran Görüntüleri
 
 image::assets/screenshots/1.png[width=800]
-image::assets/screenshots/3.png[width=800]
-image::assets/screenshots/4.png[width=800]
 image::assets/screenshots/5.png[width=800]
 image::assets/screenshots/6.png[width=800]
 image::assets/screenshots/7.png[width=800]
@@ -132,3 +130,5 @@ image::assets/screenshots/16.png[width=800]
 image::assets/screenshots/17.png[width=800]
 image::assets/screenshots/18.png[width=800]
 image::assets/screenshots/19.png[width=800]
+image::assets/screenshots/3.png[width=800]
+image::assets/screenshots/4.png[width=800]
